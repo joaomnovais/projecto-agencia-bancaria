@@ -1,0 +1,2 @@
+# projecto-agencia-bancaria
+Você foi contratado para desenvolver e gerenciar um banco de dados para um banco  que possui várias agências espalhadas pelo país.  O banco precisa armazenar informações sobre suas agências, clientes, contas e transações.  Cada cliente pode ter uma ou mais contas, e cada conta pertence a uma agência específica.  As transações (depósitos, saques, transferências) são registradas para cada conta,  e o saldo da conta deve ser atualizado conforme as transações são realizadas.
