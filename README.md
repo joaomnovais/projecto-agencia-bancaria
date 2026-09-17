@@ -14,3 +14,6 @@ Lista de Tarefas:
 - [ ] Criar o Front-End
 - [ ] Finalizar a reunião com o cliente
 
+<img width="600" height="200" alt="assinatura_joaomnovais" src="https://github.com/user-attachments/assets/2926d981-2313-4c36-8dc4-0e7457cf820f" />
+
+
